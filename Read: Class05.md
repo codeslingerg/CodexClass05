@@ -30,3 +30,4 @@ When choosing fonts for a HTML document, you want to consider how the user will 
 All of these items set the boldness and it's formatting for the text. 
 
 **Describe two ways you could add spacing around the characters displayed in an h1 element.**
+One way you could add spacing is through "text-align" attribute. Another way is through "text-transform". 
